@@ -8,9 +8,29 @@
 </head>
 <body>
     <h1>Home Page</h1>
-    <p>CHAI WEI NING</p>
-    <p>18DDT19F1025</p>
-    <p>DDT5B</p>
+    <table cellpadding="2" cellspacing="2">
+        <tr>
+            <td align="center">
+                NAMA
+            </td>
+            <td align="center">
+                NO MATRIK
+            </td>
+            <td align="center">
+                KELAS
+            </td>
+        </tr>
+        <tr>
+            <td>CHAI WEI NING</td>
+            <td>18DDT19F1025</td>
+            <td>DDT5B</td>
+        </tr>
+        <tr>
+            <td>SAW WEIYIH</td>
+            <td>18DDT19F1072</td>
+            <td>DDT5B</td>
+        </tr>
+    </table>
     <a href="changepassword.php">Change Password</a>
 </body>
 </html>
